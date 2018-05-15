@@ -45,7 +45,7 @@ function oddFilter(n) {
 }
 
 
-//Space
+//Printing Spaces (these logs implement spaces between each section of coding for cleaner overall logs)
 console.log("");
 console.log("");
 
@@ -77,7 +77,7 @@ function squareNumbers(n) {
 }
 
 
-//Space
+//Printing Spaces (these logs implement spaces between each section of coding for cleaner overall logs)
 console.log("");
 console.log("");
 
